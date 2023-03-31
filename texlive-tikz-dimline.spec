@@ -1,6 +1,6 @@
 Name:		texlive-tikz-dimline
 Version:	35805
-Release:	1
+Release:	2
 Summary:	Technical dimension lines using PGF/TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-dimline

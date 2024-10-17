@@ -3,7 +3,7 @@ Version:	35805
 Release:	2
 Summary:	Technical dimension lines using PGF/TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-dimline
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-dimline
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-dimline.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-dimline.doc.r%{version}.tar.xz
